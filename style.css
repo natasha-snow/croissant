@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: magenta;
+  background-color: #DBC7A3;
   color: white;
   font-family: Lato, sans-serif;
 }
@@ -26,6 +26,7 @@ footer {
 
 a {
   margin: 0 10px;
+  color: white;
 }
 img {
   width: 85%;
