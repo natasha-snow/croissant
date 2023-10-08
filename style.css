@@ -1,4 +1,10 @@
-h2 {
+body {
+  background-color: magenta
+  color: white
+  font-family: Lato, sans-serif
+}
+  
+  h2 {
   text-align: center;
   font-size: 2.3rem;
 }
