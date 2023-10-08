@@ -1,12 +1,12 @@
 @media (min-width: 1200px) {
   h1 {
-    text-align: center
+    text-align: center;
 }
 
 body {
-  background-color: magenta
-  color: white
-  font-family: Lato, sans-serif
+  background-color: magenta;
+  color: white;
+  font-family: Lato, sans-serif;
 }
   
   h2 {
